@@ -160,5 +160,5 @@ class User implements UserInterface
         $this->lastName = $lastName;
     }
 
-    
+
 }
